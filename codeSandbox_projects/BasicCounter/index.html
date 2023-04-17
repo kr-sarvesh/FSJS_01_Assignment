@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Basic Counter</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Counter</h1>
+      <h1 id="counter">0</h1>
+      <div class="counter">
+        <button id="decrement">-</button>
+        <button id="increment">+</button>
+      </div>
+    </div>
+  </body>
+
+  <script>
+    let counter = document.getElementById('counter')
+
+    let btnDecrement = document.getElementById('decrement')
+    let btnIncrement = document.getElementById('increment')
+
+    let count = 0
+
+    btnDecrement.addEventListener('click', () => {
+      count--
+      counter.textContent = count
+    })
+
+    btnIncrement.addEventListener('click', () => {
+      count++
+      counter.textContent = count
+    })
+  </script>
+</html>
