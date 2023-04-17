@@ -2,7 +2,6 @@
 # All Blogs Link
 
 1. Article about Positioning (CSS)
-
  https://sarveshlearn.hashnode.dev/css-positions
 
 2. Article about GIT
