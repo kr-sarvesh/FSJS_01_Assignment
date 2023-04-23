@@ -22,29 +22,26 @@ https://github.com/kr-sarvesh/lco-law-landing-page
 7. Restraunt lifestyle
 https://github.com/kr-sarvesh/Restraunt-lifestyle
 
-8. Product Homepage Page
-https://github.com/kr-sarvesh/Product-homepage-lco
-
-9. Interior Design Page
+8. Interior Design Page
 https://github.com/kr-sarvesh/Interior-design-lco-10
 
-10. Hoisting Landing Page
+09. Hoisting Landing Page
 https://github.com/kr-sarvesh/Hosting-Landing_page-LCO
 
-11. Buisness Landing Page
+10. Buisness Landing Page
 https://github.com/kr-sarvesh/buisness-landing-page
 
-12. Product Designer Landing Page
+11. Product Designer Landing Page
 https://github.com/kr-sarvesh/product-designer-portfolio-lco
 
-13. Web Design Landing Page
+12. Web Design Landing Page
 https://github.com/kr-sarvesh/Web-Designing-Landing-Page
 
-14. Programming Web site Page
+13. Programming Web site Page
 https://github.com/kr-sarvesh/programming-website-lco
 
-15. SAAS Landing Page
+14. SAAS Landing Page
 https://github.com/kr-sarvesh/SAAS-Landing-page-LCO
 
-16. Dance Landing Page
+15. Dance Landing Page
 https://github.com/kr-sarvesh/Dance-Home-Landing-Page
